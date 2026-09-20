@@ -7,7 +7,7 @@ This repository contains the projects completed as part of the Elevance Skills I
 ### 1. Attendance System
 Computer vision based attendance management system.
 
-[View Repository](https://github.com/vivoxtroat/Attendance_System)
+[View Repository](https://github.com/vivoxthroat/Attendance_System)
 
 ---
 
