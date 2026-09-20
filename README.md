@@ -14,35 +14,35 @@ Computer vision based attendance management system.
 ### 2. Animal Detection
 Computer vision system for detecting animals in images.
 
-[View Repository](https://github.com/vivoxtroat/Animal_detection)
+[View Repository](https://github.com/vivoxthroat/Animal_detection)
 
 ---
 
 ### 3. Drowsiness Detection
 Computer vision system for detecting people and identifying potentially drowsy individuals.
 
-[View Repository](https://github.com/vivoxtroat/Drowsiness_detector)
+[View Repository](https://github.com/vivoxthroat/Drowsiness_detector)
 
 ---
 
 ### 4. Nationality Information Detection
 GUI-based image information analysis prototype with nationality and related attribute inputs.
 
-[View Repository](https://github.com/vivoxtroat/Nationality_Detector)
+[View Repository](https://github.com/vivoxthroat/Nationality_Detector)
 
 ---
 
 ### 5. Car Colour Detection
 YOLO-based vehicle and car-colour detection system.
 
-[View Repository](https://github.com/vivoxtroat/Car_Colour_detector)
+[View Repository](https://github.com/vivoxthroat/Car_Colour_detector)
 
 ---
 
 ### 6. Sign Language Detection
 CNN-based ASL alphabet sign language detection system.
 
-[View Repository](https://github.com/vivoxtroat/sign_language_detector)
+[View Repository](https://github.com/vivoxthroat/sign_language_detector)
 
 ---
 
